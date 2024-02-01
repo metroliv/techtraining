@@ -39,6 +39,7 @@ Learn HTTP Status Codes In 10 Minutes
 
 
 ## What are HTTP response headers?
+
 Much like an HTTP request, an HTTP response comes with headers that convey important information such as the language and format of the data being sent in the response body.
 Example of HTTP response headers from Google Chrome's network tab:
 HTTP response headers
