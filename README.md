@@ -1,1 +1,1 @@
-## summary of the classes attended
+## Summary of the classes attended
